@@ -95,5 +95,3 @@ Feel free to fork, remix, or improve it, just credit the original author.
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/m-ianas/)
-- [X (formerly Twitter)](https://x.com/0xiM5_)
-

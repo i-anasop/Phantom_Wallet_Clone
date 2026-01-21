@@ -1,5 +1,4 @@
-```
-# 🚀 Phantom Wallet Simulator (Python)
+# 🚀 Phantom Wallet Clone (Python)
 
 Phantom Wallet Simulator is a **professional, educational, and security-oriented** Python desktop application that simulates a Phantom-style cryptocurrency wallet with enterprise-grade cryptography, data structures, and a clean modern UI.
 
@@ -20,8 +19,6 @@ It provides a complete crypto wallet experience with deterministic seed phrases,
 ### 🛡️ Security & Cryptography
 - **AES-256 (Fernet)** encryption for seed phrases  
 - **RSA-2048** digital signatures on every transaction  
-- **HMAC-SHA256** authentication for transactions  
-- **SHA256** hashing for deterministic wallets  
 - Secure transaction IDs via `secrets`  
 - Atomic excel writes via `openpyxl`  
 
@@ -74,62 +71,13 @@ Phantom-Wallet/
 
 ### ▶️ Steps
 
-Clone the repo:
-```bash
-git clone https://github.com/your-username/Phantom-Wallet-Simulator
-````
-
-Install dependencies:
-
-```bash
-pip install customtkinter pillow qrcode cryptography openpyxl
-```
-
-Run the application:
-
-```bash
-python3 wallet.py
-```
-
-The app will guide you through:
-**wallet creation → balances → transactions → logs**
-
----
-
-## 🛠 Tech Stack
-
-* 🖥️ Python (CustomTkinter UI)
-* 🔐 AES-256, RSA-2048, HMAC, SHA256
-* 📊 Linked List, Queue, Stack, Priority Queue
-* 📁 Excel DB via `openpyxl`
-* 🖼️ QR code generation
-* 🧩 Single-file architecture
-
----
-
-## 🎯 Use Cases
-
-* Crypto learning & simulation
-* DSA demonstrations for academics
-* Cryptography practice
-* Desktop GUI portfolio project
-* Mock wallet UX design
-
----
-
-## 📌 Future Ideas
-
-* Real blockchain integration (RPC APIs)
-* Mobile/Android version
-* NFT gallery support
-* Multi-network support
-* Admin panel / history viewer
-
----
+Download the zip file
+Install all Libraries
+Run wallet.py
 
 ## 💡 Credits
 
-Built by **Anas** with dedication, curiosity, and a love for security engineering 🔐
+Built by **Anas** with dedication, curiosity, and a love for web3.
 
 Special thanks to **ChatGPT** for being the smartest teammate in the room 🤝
 
@@ -138,15 +86,14 @@ Special thanks to **ChatGPT** for being the smartest teammate in the room 🤝
 ## ⚖️ License & Reuse
 
 This project is **open for learning and modification**.
-Feel free to fork, remix, or improve it — just credit the original author (and our dear co-developer ChatGPT 😌).
+Feel free to fork, remix, or improve it, just credit the original author.
 
 
-## 📬 Feedback & Connect
+---
 
-Want to contribute or have ideas? Let’s connect!
+📬 _Have feedback or want to contribute? Let’s connect!_
+## 🔗 Connect With Me
 
-🔗 **LinkedIn:** your-link-here
-🔗 **Twitter (X):** your-link-here
+- [LinkedIn](https://www.linkedin.com/in/m-ianas/)
+- [X (formerly Twitter)](https://x.com/0xiAnas)
 
-Just say the word 🔥
-```

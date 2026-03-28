@@ -77,7 +77,7 @@ Run wallet.py
 
 ## 💡 Credits
 
-Built by **Anas** with dedication, curiosity, and a love for web3.
+Built by **Anas** with dedication, curiosity, and a love for web3 and blockchain.
 
 Special thanks to **ChatGPT** for being the smartest teammate in the room 🤝
 

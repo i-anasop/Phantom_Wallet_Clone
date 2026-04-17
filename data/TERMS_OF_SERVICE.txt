@@ -1,0 +1,17 @@
+Introduction
+By proceeding, you acknowledge that this application is a wallet simulator designed solely for educational and demonstration purposes. No real cryptocurrency transactions take place, and all values, balances, and assets are simulated. You understand that the developers are not responsible for any misinterpretation of these simulated features.
+
+Seed Phrase Importance
+You agree that the concept of a seed phrase is critical in blockchain systems. In real environments, a seed phrase is the only method to recover a lost or inaccessible wallet. Anyone who gains access to your real seed phrase would gain complete control of your funds. This simulator teaches that best practice by prompting you to manage and safeguard your seed phrase responsibly.
+
+User Responsibility
+By using this simulator, you accept full responsibility for all actions taken within the app. You understand that features such as wallet creation, balance display, sending or receiving crypto, and QR code generation are purely illustrative. The simulator does not connect to any blockchain, and no actual value is stored, transferred, or accessible.
+
+Security & Privacy
+You acknowledge that this simulator may generate random wallet data, including addresses, seed phrases, balances, and QR codes for educational purposes only. No data is sent to external networks. However, you agree not to use this simulation to store sensitive personal information, real private keys, or real seed phrases.
+
+Educational Use Only
+This tool is not intended for financial, investment, or transactional use. It is strictly designed to demonstrate UI flows, blockchain concepts, and wallet behavior. By proceeding, you agree that you understand the distinction between simulated and real wallet systems.
+
+Agreement
+By continuing, you confirm that you have read and understood these terms. You accept that this is a simulated environment and that you will not attempt to use it for any form of real cryptocurrency management.

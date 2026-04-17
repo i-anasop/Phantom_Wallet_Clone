@@ -1,0 +1,126 @@
+
+[2025-11-29 22:09:04] WALLET CREATED
+Address: 0xfd0d9c74ce1284dfc649438162920d88832eddaf
+Encrypted Seed (AES-256): gAAAAABpKyiwWe4L8cPdEeztDW9rNKQ21QPbQ-DRd89rgrkzal...[PROTECTED]
+Seed Hash (SHA256): fd0d9c74ce1284dfc649438162920d88832eddafb3c8318fca1b43a8887e26b3
+--------------------------------------------------------------------------------
+
+[2025-11-29 22:10:18] SEND | BTC 1.0 -> abc (Fee: 0.0001)
+Transaction ID: 4269c056
+SHA256 Hash: fe0f49cfcc11f3fbf71b696adb00a151f65c61cd0dcc639a253fa392eb8d4fde
+HMAC-SHA256: a122082f98a1be4f973762525b27f7b3147fa505924f4e8d5bce25ee64f2c227
+RSA-2048 Sig: 628c1aab7350cfcb2581c11dde360bec55d83dce3c8ddc5eef61ba1494769be9
+--------------------------------------------------------------------------------
+
+[2025-11-29 22:10:39] SEND | SOL 2.0 -> sdf (Fee: 0.01)
+Transaction ID: 71d67d1a
+SHA256 Hash: 8498ca193154265473203b8c6538a274f78698745a14f0176c280c5297da047f
+HMAC-SHA256: 640984e074355b58f35d48dd69537ca82514e1d76c1d7d3f51c77248bf7e3631
+RSA-2048 Sig: 48ecb0c95d20d936d5bfc881a094dfe10f21f751e4d35be762caf91b32062a87
+--------------------------------------------------------------------------------
+
+[2025-11-29 22:10:53] RECEIVE | USDT 100.0
+Transaction ID: 49b38179
+SHA256 Hash: 843f841b435e42ecc4572691411412ef40561fa2c1ad4efb72a37fdb417ff3f6
+HMAC-SHA256: 9e4c22bf308b69a8e33a77650f6fe2272327175c6ca510e2ce42550aee6b86cf
+RSA-2048 Sig: 52dfbbce9669f88170bfc1a4b54a8f7db126cbee9e4db12ed99e6794bacfe962
+--------------------------------------------------------------------------------
+
+[2025-11-29 22:11:04] RECEIVE | MATIC 200.0
+Transaction ID: 59c387d2
+SHA256 Hash: 990ecd31a07d5eebfe812d83ec8eae8ae5f653f0ac3311ee6f28abf146458a57
+HMAC-SHA256: 906006d00bec83b5c1df390cd2d2b1ce85493b0eef03ce1dff3a86289cf27198
+RSA-2048 Sig: 29998415b67aa623666b0bc25e5cd06bb4f62e12a7f66d88ff7618e369a440b7
+--------------------------------------------------------------------------------
+
+[2025-11-29 22:11:48] WALLET CREATED
+Address: 0xfd0d9c74ce1284dfc649438162920d88832eddaf
+Encrypted Seed (AES-256): gAAAAABpKylUcSuauRhZelAytuYJzsZivNMpIfiUzi5dU1ihcQ...[PROTECTED]
+Seed Hash (SHA256): fd0d9c74ce1284dfc649438162920d88832eddafb3c8318fca1b43a8887e26b3
+--------------------------------------------------------------------------------
+
+[2025-12-03 21:20:49] WALLET CREATED
+Address: 0x11c15c03838d1296734e209e6ad591ec610331d2
+Encrypted Seed (AES-256): gAAAAABpMGNhZ1USasZw2dVU91nNcEfvPPZ5Ky4VeN97CHFCl0...[PROTECTED]
+Seed Hash (SHA256): 11c15c03838d1296734e209e6ad591ec610331d2a3b355d4ff8dbac862bcfe9b
+--------------------------------------------------------------------------------
+
+[2025-12-03 21:23:09] SEND | BTC 0.1 -> asdasd (Fee: 0.0001)
+Transaction ID: 40088eb0
+SHA256 Hash: 2e06801a4152498e98e4bfdb26393fc36f5deb3d5546c27b1c3fadfd0e9f2945
+HMAC-SHA256: adfc60f4aa458cb154cf0bddd23b59a11ff307de7fa0c381fea75cd9219611a9
+RSA-2048 Sig: 9af03e2c8c5033661addd4b5863f65a38f13c1a8576769574e04593d31513fc9
+--------------------------------------------------------------------------------
+
+[2025-12-03 21:23:48] RECEIVE | BTC 100.0
+Transaction ID: 184fa275
+SHA256 Hash: 68e818956f17565b3a2e4a2b1bdac5c8a942a100f0bd50e05621295f5b7468c5
+HMAC-SHA256: b5e3d015cecd510a775033c56c9d70dac248c6a5dfb79d887d3d9b1759788062
+RSA-2048 Sig: 37fee6455b9a8c478e064fce6116e8def798e1175575247b436228ca05342bad
+--------------------------------------------------------------------------------
+
+[2025-12-03 21:25:02] SEND | SOL 10.0 -> asdascf (Fee: 0.01)
+Transaction ID: a7e68954
+SHA256 Hash: 490376958414b63266d71ddb87a2168e5bb76b03f007059ed680b8c3bd1e32d9
+HMAC-SHA256: 41cca05063e405b9893b255c499bee03e9734f37a41e692fd891e1a9b53185a1
+RSA-2048 Sig: 80afc0a3defa567241e0696d9d126bd1ca7bf31399f883558d82d4c58e78528e
+--------------------------------------------------------------------------------
+
+[2026-01-21 08:54:51] WALLET CREATED
+Address: 0x4fa69317efdc73a875ae682550962397dbba9e09
+Encrypted Seed (AES-256): gAAAAABpcE4L7tV5xT35_uImJLEHt2aJd1XE52poAy2Subbi74...[PROTECTED]
+Seed Hash (SHA256): 4fa69317efdc73a875ae682550962397dbba9e09d17183fa517b67a95efde280
+--------------------------------------------------------------------------------
+
+[2026-01-21 08:55:28] SEND | BTC 1.0 -> 0x4fa69317efdc73a875ae682550962397dbba9e09 (Fee: 0.0001)
+Transaction ID: 5475a934
+SHA256 Hash: 947b7570a371560f96fff73a7562fb200770d450ce532d7f2c74293d70f5dc12
+HMAC-SHA256: 55543ef94fb3378a537a720ae6ff26c8d1856d1363f018269abd21a085ee77ae
+RSA-2048 Sig: 9ddcf2d2f0f0c17881345ccfd913a6b149bb443bc337df59f8993f25a9b18a00
+--------------------------------------------------------------------------------
+
+[2026-01-21 08:55:38] RECEIVE | BTC 1.0
+Transaction ID: 3fd550b3
+SHA256 Hash: 8b29e674ba0ffea2a87f5af325a55e683177684c1ab307e5b35e23114b1f8e3c
+HMAC-SHA256: c98fee7aaddc165caeb57bf5585c1c3ab90151c6bdfc36c0525249a56d341678
+RSA-2048 Sig: ba7a9c9981f4d9c34d2c14c5f594e5e500dafea8062cca693cb5e9fce09672ff
+--------------------------------------------------------------------------------
+
+[2026-01-21 08:56:30] WALLET CREATED
+Address: 0x5d7e4bc121a81f15b4b17715cf3328cd2a3ce46f
+Encrypted Seed (AES-256): gAAAAABpcE5u_MvUah__X_43cuimEhFjmFYXCf1uM7AZJEqIIL...[PROTECTED]
+Seed Hash (SHA256): 5d7e4bc121a81f15b4b17715cf3328cd2a3ce46fb80968e4cbfa3bf5408a1482
+--------------------------------------------------------------------------------
+
+[2026-01-21 08:57:16] SEND | BTC 1.0 -> 0xasd (Fee: 0.0001)
+Transaction ID: e10b33be
+SHA256 Hash: fc38a11fbf557bb03ec56d3f3f32f0f2a2a60bb423667bba182f6f866fb315c4
+HMAC-SHA256: 33c965e5060385372e78d531e62920fd77577f748ca282b17c347e63131a81ec
+RSA-2048 Sig: 4c0b6e3d5a90a1be239e91414e0a9a2fa71ccc670d89d4b6904a0359fd640034
+--------------------------------------------------------------------------------
+
+[2026-01-21 08:59:42] WALLET CREATED
+Address: 0x29e80516e9b8ade6504e8836f2560bb3c1150f03
+Encrypted Seed (AES-256): gAAAAABpcE8uf7wYb2BSxlm3WeB4EV3lqAmpuul-hSyrgltAb5...[PROTECTED]
+Seed Hash (SHA256): 29e80516e9b8ade6504e8836f2560bb3c1150f03dccab119966c2b4c85ed295c
+--------------------------------------------------------------------------------
+
+[2026-01-21 09:00:26] SEND | BTC 1.0 -> 0xasd (Fee: 0.0001)
+Transaction ID: 9bf1c679
+SHA256 Hash: fc38a11fbf557bb03ec56d3f3f32f0f2a2a60bb423667bba182f6f866fb315c4
+HMAC-SHA256: 3843a9ce072d31fe043e3f56897df8332300b8a17e6f4c10e33ec33eca8b0bf4
+RSA-2048 Sig: 935d5516d2d0d9d261c910c934c0ce45b495a6912bc66ccad4040b666c7adc96
+--------------------------------------------------------------------------------
+
+[2026-01-21 09:03:04] WALLET CREATED
+Address: 0x400d99d791d6314b1435eb784757f0fafcd17fe5
+Encrypted Seed (AES-256): gAAAAABpcE_4gbJEHKaMWZgigc1iIGhUwb5TApRcb86nSUwIs5...[PROTECTED]
+Seed Hash (SHA256): 400d99d791d6314b1435eb784757f0fafcd17fe564a0a3cc9227c198f7c12946
+--------------------------------------------------------------------------------
+
+[2026-01-21 09:03:46] SEND | BTC 1.0 -> 0xAD (Fee: 0.0001)
+Transaction ID: 82f80d81
+SHA256 Hash: 93ee01bde8dd7b71a246b1ea27d1547f32d2045aec9cd324e956550267dd1f36
+HMAC-SHA256: 67c237d5727a9bd6209e08a5b804445527d0b741502bfcb41a7fe5a6dab7fc38
+RSA-2048 Sig: 81525bc9aa45ba82aa43a0e74bb06e60a38dbea4577ad10b56c0421e02f3fbea
+--------------------------------------------------------------------------------
